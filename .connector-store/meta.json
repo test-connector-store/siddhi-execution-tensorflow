@@ -1,0 +1,19 @@
+{
+    "name": "tensorflow",
+    "owner": "WSO2",
+    "category": "Siddhi Function",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-execution-tensorflow/",
+    "description": "The siddhi-execution-tensorflow is an extension to Siddhi that adds support for inferences from pre-built TensorFlow SavedModels using Siddhi.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-execution",
+        "tensorflow"
+    ],
+    "releases": [
+        {
+            "tagName": "1.1.1",
+            "products": []
+        }
+    ]
+}
